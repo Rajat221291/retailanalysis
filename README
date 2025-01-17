@@ -1,0 +1,6 @@
+Problem statement which we are trying to solve here is - to find the number of closed oreders for each statement. It will involvolve below transformations
+Create Orders dataframe
+Creater Customers dataframe
+Filter orders dataframe based on order status
+Join the orders filtered with customers (customer_id)
+do a groupBy on state and do the aggregation
