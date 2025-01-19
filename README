@@ -4,3 +4,5 @@ Creater Customers dataframe
 Filter orders dataframe based on order status
 Join the orders filtered with customers (customer_id)
 do a groupBy on state and do the aggregation
+
+Added comments for feature1
